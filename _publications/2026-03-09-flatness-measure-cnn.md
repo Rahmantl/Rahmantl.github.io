@@ -4,6 +4,5 @@ collection: publications
 permalink: /publication/2026-03-09-flatness-measure-cnn
 date: 2026-03-09
 venue: 'arXiv preprint arXiv:2603.09016'
-citation: '<b>Taleghani, R.<b>, Mohammadi, M., & Marchetti, F.'
+citation: '**Taleghani, R.**, Mohammadi, M., & Marchetti, F.'
 ---
-
