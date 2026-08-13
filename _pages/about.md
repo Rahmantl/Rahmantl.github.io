@@ -18,6 +18,6 @@ Broadly speaking, I am passionate about bridging theory and practice—developin
 ## Contact
 Feel free to reach out to me:
 
-* **Email:** rahman.taleghani@med.uni-goettingen.de
+* **Email:** rahman.taleghani [at] med.uni-goettingen.de
 * **Office:** Von-Siebold-Straße 3, EG 0.C 128, 37075 Göttingen, Germany
 * **Phone:** +49 551 3963214
