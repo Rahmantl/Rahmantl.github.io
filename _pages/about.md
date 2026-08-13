@@ -7,17 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Rahman, a junior researcher in Mathematics. I recently completed my Master of Science in Mathematics at the Department of Mathematics “Tullio Levi-Civita” of the University of Padova, where I focused on the theoretical foundations of modern learning algorithms.
+Hi! I'm Rahman, a PhD candidate and Research Associate at the [Department of Medical Statistics](https://medstat.umg.eu/en/) at the University Medical Center Göttingen (UMG) and the Center for Artificial Intelligence in Medicine (CAIMed). Under the supervision of Prof. Dr. Björn-Hergen Laabs, I work on advancing statistical methods and trustworthy machine learning in healthcare.
 
-As an Erasmus researcher in the Chair for Machine Learning at Ruhr University Bochum, I conducted my master’s thesis, “On the Computation of Relative Flatness in Convolutional Layers,” under the supervision of Prof. Dr. Michael Kamp and Dr. Linara Adilova, in close collaboration with the research group of Prof. Dr. Asja Fischer.
+Before starting my PhD, I completed my M.Sc. in Mathematics at the University of Padova (Department of Mathematics "Tullio Levi-Civita"), where I explored the theoretical foundations of modern learning algorithms. As an Erasmus researcher with the Chair for Machine Learning at Ruhr University Bochum, I conducted my master’s thesis, *"On the Computation of Relative Flatness in Convolutional Layers,"* supervised by Prof. Dr. Michael Kamp and Dr. Linara Adilova, in close collaboration with Prof. Dr. Asja Fischer's research group.
 
-My academic path began at the University of Guilan in Iran, where I obtained both my Bachelor of Science in Mathematics and Its Applications and a first Master of Science in Applied Mathematics (Optimization), under the supervision of Prof. Dr. Maziar Salahi. During this period, I worked on matrix completion problems using convex optimization methods.
+My academic journey began at the University of Guilan in Iran, where I obtained both my B.Sc. in Mathematics and Its Applications and an M.Sc. in Applied Mathematics (Optimization) under the supervision of Prof. Dr. Maziar Salahi, focusing on matrix completion problems using convex optimization techniques.
 
-As a mathematics researcher, I am particularly motivated by real-world problems and by developing efficient, theoretically grounded methods for solving complex systems. My research interests lie at the intersection of optimization, deep learning theory, and statistics.
-​
-
+Broadly speaking, I am passionate about bridging theory and practice—developing mathematically grounded, efficient, and reliable machine learning methods to solve real-world problems in medical statistics and healthcare.
 
 ## Contact
-Feel free to reach out to me: 
-* **Email:** Rahman.taleghanizolpirani@studenti.unipd.it
+Feel free to reach out to me:
 
+* **Email:** rahman.taleghani@med.uni-goettingen.de
+* **Office:** Von-Siebold-Straße 3, EG 0.C 128, 37075 Göttingen, Germany
+* **Phone:** +49 551 3963214
