@@ -13,7 +13,7 @@ Before starting my PhD, I completed my M.Sc. in Mathematics at the University of
 
 My academic journey began at the University of Guilan in Iran, where I obtained both my B.Sc. in Mathematics and Its Applications and an M.Sc. in Applied Mathematics (Optimization), focusing on matrix completion problems using convex optimization techniques.
 
-Broadly speaking, I am passionate about bridging theory and practice—developing mathematically grounded, efficient, and reliable machine learning methods to solve real-world problems.
+Broadly speaking, I am passionate about bridging theory and practice, developing mathematically grounded, efficient and reliable machine learning methods to solve real-world problems.
 
 ## Contact
 Feel free to reach out to me:
